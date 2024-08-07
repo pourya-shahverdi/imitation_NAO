@@ -1,3 +1,4 @@
+# use this file for upper-body imitation only
 import os
 import sys
 import time
