@@ -1,8 +1,4 @@
-# Run these commands in ROS terminal:
-# roscd skeleton_markers
-# rosrun rviz rviz -d markers.rviz
-# roslaunch skeleton_markers markers.launch
-
+# use this file for whole-body imitation
 import os
 import sys
 import time
