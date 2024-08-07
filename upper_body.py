@@ -1,9 +1,3 @@
-# -*- encoding: UTF-8 -*-
-# Run these commands in ROS terminal:
-# roscd skeleton_markers
-# rosrun rviz rviz -d markers.rviz
-# roslaunch skeleton_markers markers.launch
-
 import os
 import sys
 import time
